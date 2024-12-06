@@ -1,0 +1,19 @@
+{
+  "item.palerealm.pale_ingot": "Pale Ingot",
+  "item.palerealm.corrupted_pale_ingot": "Corrupted Pale Ingot",
+  "item.palerealm.raw_cobalt": "Raw Cobalt",
+  "item.palerealm.cobalt_ingot": "Cobalt Ingot",
+  "item.palerealm.corrupted_cobalt_ingot": "Corrupted Cobalt Ingot",
+
+  "item.palerealm.kohlrabi": "Kohlrabi",
+  "item.palerealm.steamed_kohlrabi": "Steamed Kohlrabi",
+
+  "block.palerealm.resin_ore": "Resin Ore",
+  "block.palerealm.cobalt_ore": "Cobalt Ore",
+  "block.palerealm.deepslate_cobalt_ore": "Deepslate Cobalt Ore",
+
+  "block.palerealm.cobalt_block": "Cobalt Block",
+  "block.palerealm.deepslate_cobalt_block": "Raw Cobalt Block",
+
+  "creativetab.palerealm.pale_realm_tab": "Pale Realm"
+}

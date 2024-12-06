@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "group": "kohlrabi",
+  "ingredient": {
+    "item": "palerealm:kohlrabi"
+  },
+  "result": {
+    "count": 1,
+    "id": "palerealm:steamed_kohlrabi"
+  }
+}
